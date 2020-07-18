@@ -23,7 +23,7 @@ vps="dg-network";
 #if [[ $vps = "dg-network" ]]; then
 	#source="http://"
 #else
-	source="https://github.com/sslmode/sslmode/raw/master/tools"
+	source="https://github.com/nstfreenet/sslmode/raw/master/tools"
 #fi
 
 # go to root
